@@ -1,0 +1,1001 @@
+id,Restaurant Name,Category,Price Tier,Neighborhood,Opening Hours,Average Rating (out of 5 stars),Good for kids
+1,lhammarberg0,Indian,Cheap,Upper West Side,9:00 - 20:00,1,False
+2,bairds1,Pizza,Expensive,Rego Park,9:00 - 20:00,5,False
+3,qjeanequin2,French,Medium,Upper East Side,9:00 - 20:00,3,False
+4,agullifant3,Indian,Medium,Bushwick,9:00 - 20:00,2,True
+5,emaccartan4,Japanese,Expensive,Sunnyside,9:00 - 20:00,5,False
+6,ccritcher5,Chinese,Expensive,New Brighton,9:00 - 20:00,4,False
+7,bendean6,American,Cheap,Belmont,9:00 - 20:00,1,False
+8,glauks7,Italian,Expensive,Upper West Side,9:00 - 20:00,5,False
+9,lcurnnok8,Mexican,Expensive,Belmont,9:00 - 20:00,5,True
+10,kvossing9,Japanese,Medium,Westerleigh,9:00 - 20:00,5,True
+11,efryatta,Pizza,Medium,New Brighton,9:00 - 20:00,4,False
+12,gcogmanb,Japanese,Medium,Rosebank,9:00 - 20:00,3,False
+13,jhamilc,Italian,Cheap,Bedford-Stuyvesant,9:00 - 20:00,4,False
+14,tdumbreckd,Burger,Expensive,Woodside,9:00 - 20:00,1,False
+15,dquilleashe,Fast Food,Cheap,Soundview,9:00 - 20:00,4,False
+16,bneevesf,Korean,Cheap,Stapleton,9:00 - 20:00,3,False
+17,chuggonsg,Fast Food,Expensive,Rosebank,9:00 - 20:00,5,True
+18,elindlh,American,Medium,New Brighton,9:00 - 20:00,4,False
+19,pmaginni,American,Medium,Flushing,9:00 - 20:00,5,True
+20,lwainmanj,Italian,Medium,Forest Hills,9:00 - 20:00,4,False
+21,chorningk,Burger,Expensive,Prospect Heights,9:00 - 20:00,3,True
+22,adidellol,Mexican,Cheap,Riverdale,9:00 - 20:00,4,False
+23,lwhitfieldm,Burger,Cheap,Greenpoint,9:00 - 20:00,2,False
+24,msigsworthn,Chinese,Medium,Red Hook,9:00 - 20:00,2,False
+25,wbotgero,Thai,Cheap,Upper West Side,9:00 - 20:00,4,False
+26,amccollump,Japanese,Expensive,Tompkinsville,9:00 - 20:00,5,False
+27,frymellq,American,Expensive,Crown Heights,9:00 - 20:00,3,False
+28,kpionterr,Burger,Medium,Park Slope,9:00 - 20:00,1,False
+29,vfyness,Pizza,Medium,Forest Hills,9:00 - 20:00,3,False
+30,kgribbont,American,Medium,Tottenville,9:00 - 20:00,5,True
+31,rattestoneu,American,Cheap,Park Slope,9:00 - 20:00,5,False
+32,mseelbachv,American,Medium,Jackson Heights,9:00 - 20:00,4,True
+33,acouchmanw,Burger,Medium,Stapleton,9:00 - 20:00,5,True
+34,hhaningtonx,Italian,Expensive,Mott Haven,9:00 - 20:00,1,True
+35,rblazey,American,Cheap,Soundview,9:00 - 20:00,1,False
+36,rfulbrookz,Italian,Expensive,Park Slope,9:00 - 20:00,3,False
+37,njanaud10,Mexican,Expensive,Bedford-Stuyvesant,9:00 - 20:00,1,True
+38,mpapierz11,French,Expensive,Greenpoint,9:00 - 20:00,1,False
+39,jmonelli12,Korean,Expensive,Prospect Heights,9:00 - 20:00,1,False
+40,gcharlton13,Chinese,Cheap,Prospect Heights,9:00 - 20:00,5,True
+41,hsheeres14,Thai,Cheap,Park Slope,9:00 - 20:00,4,False
+42,nwickendon15,Korean,Medium,Mott Haven,9:00 - 20:00,5,False
+43,tdillintone16,American,Medium,Midtown,9:00 - 20:00,4,False
+44,lhintze17,Thai,Expensive,Forest Hills,9:00 - 20:00,2,False
+45,roakenford18,Indian,Medium,Long Island City,9:00 - 20:00,3,False
+46,kpittam19,French,Medium,Upper West Side,9:00 - 20:00,2,True
+47,abickerstaff1a,Burger,Expensive,Jackson Heights,9:00 - 20:00,1,False
+48,fboden1b,Japanese,Expensive,Stapleton,9:00 - 20:00,1,False
+49,lkaveney1c,American,Expensive,Kingsbridge,9:00 - 20:00,1,False
+50,owickmann1d,Korean,Expensive,Jamaica,9:00 - 20:00,2,True
+51,sgrigoletti1e,Korean,Expensive,Park Slope,9:00 - 20:00,5,False
+52,nwelham1f,Indian,Medium,Bushwick,9:00 - 20:00,2,False
+53,bachromov1g,Chinese,Cheap,Annadale,9:00 - 20:00,4,False
+54,mslayny1h,Pizza,Medium,Soundview,9:00 - 20:00,1,True
+55,gagus1i,Pizza,Expensive,Morris Park,9:00 - 20:00,3,False
+56,hplose1j,French,Expensive,Red Hook,9:00 - 20:00,1,True
+57,wlucus1k,Thai,Cheap,Red Hook,9:00 - 20:00,2,False
+58,edreamer1l,French,Cheap,Hunts Point,9:00 - 20:00,4,True
+59,jcust1m,Thai,Cheap,Sunnyside,9:00 - 20:00,3,True
+60,tregus1n,Chinese,Cheap,Midtown,9:00 - 20:00,5,True
+61,xlongea1o,Thai,Medium,Sunnyside,9:00 - 20:00,2,True
+62,lgiral1p,Korean,Medium,Greenwich Village,9:00 - 20:00,3,False
+63,vpalliser1q,Korean,Medium,DUMBO,9:00 - 20:00,2,False
+64,mlangmuir1r,Korean,Expensive,Harlem,9:00 - 20:00,5,False
+65,cdelaharpe1s,American,Cheap,Annadale,9:00 - 20:00,4,True
+66,jspary1t,Japanese,Expensive,Bayside,9:00 - 20:00,4,True
+67,gingall1u,Korean,Medium,Pelham Bay,9:00 - 20:00,2,True
+68,sdroghan1v,Fast Food,Expensive,Bayside,9:00 - 20:00,4,False
+69,hvaneev1w,French,Medium,Greenpoint,9:00 - 20:00,1,False
+70,bmunks1x,Chinese,Medium,Park Slope,9:00 - 20:00,3,True
+71,ftewkesberrie1y,Thai,Cheap,Midtown,9:00 - 20:00,4,True
+72,gnudds1z,American,Medium,Forest Hills,9:00 - 20:00,2,True
+73,astork20,French,Cheap,Astoria,9:00 - 20:00,2,True
+74,jnobes21,Korean,Expensive,Throgs Neck,9:00 - 20:00,4,True
+75,dmaclaren22,Thai,Cheap,Soundview,9:00 - 20:00,1,True
+76,wsaberton23,Thai,Expensive,Midtown,9:00 - 20:00,2,True
+77,mblackburne24,Mexican,Expensive,Midtown,9:00 - 20:00,5,True
+78,hlawrenceson25,Burger,Cheap,Fordham,9:00 - 20:00,3,True
+79,ielen26,Japanese,Expensive,Stapleton,9:00 - 20:00,2,False
+80,cmennithorp27,Fast Food,Cheap,Greenwich Village,9:00 - 20:00,2,False
+81,sludy28,Korean,Cheap,DUMBO,9:00 - 20:00,3,True
+82,mchatelot29,Fast Food,Expensive,Prospect Heights,9:00 - 20:00,4,True
+83,dandroletti2a,American,Expensive,Lower East Side,9:00 - 20:00,1,True
+84,drappoport2b,Fast Food,Expensive,Kingsbridge,9:00 - 20:00,2,True
+85,avenney2c,Fast Food,Cheap,Riverdale,9:00 - 20:00,4,False
+86,bbethune2d,Italian,Cheap,Tompkinsville,9:00 - 20:00,5,True
+87,rkisbey2e,Korean,Expensive,Tribeca,9:00 - 20:00,1,False
+88,wemsley2f,Fast Food,Expensive,New Brighton,9:00 - 20:00,4,False
+89,hswenson2g,Japanese,Cheap,Red Hook,9:00 - 20:00,2,True
+90,abratchell2h,Thai,Cheap,Bayside,9:00 - 20:00,3,True
+91,cbrogi2i,Indian,Expensive,Pelham Bay,9:00 - 20:00,5,True
+92,jmishow2j,Fast Food,Medium,Annadale,9:00 - 20:00,5,True
+93,sblincoe2k,Indian,Medium,Tottenville,9:00 - 20:00,2,True
+94,cmarushak2l,Thai,Expensive,Jamaica,9:00 - 20:00,2,True
+95,tdowse2m,Fast Food,Medium,Chelsea,9:00 - 20:00,5,False
+96,aboole2n,Fast Food,Medium,Morris Park,9:00 - 20:00,2,True
+97,lcanas2o,Thai,Medium,Bushwick,9:00 - 20:00,3,False
+98,rratt2p,Japanese,Expensive,Harlem,9:00 - 20:00,2,False
+99,ovesque2q,French,Expensive,Belmont,9:00 - 20:00,5,True
+100,aledward2r,American,Cheap,DUMBO,9:00 - 20:00,1,False
+101,sfarleigh2s,Fast Food,Medium,Great Kills,9:00 - 20:00,2,True
+102,kwiddup2t,Japanese,Cheap,Fordham,9:00 - 20:00,1,False
+103,tsaker2u,Mexican,Medium,Lower East Side,9:00 - 20:00,3,True
+104,bearnshaw2v,Fast Food,Cheap,Grasmere,9:00 - 20:00,2,False
+105,jsalmen2w,Mexican,Medium,Rosebank,9:00 - 20:00,5,True
+106,gmccraine2x,Burger,Expensive,Annadale,9:00 - 20:00,2,False
+107,jnelsen2y,French,Cheap,Jamaica,9:00 - 20:00,4,False
+108,xhenzer2z,Japanese,Cheap,Kingsbridge,9:00 - 20:00,4,False
+109,acerro30,Italian,Medium,Pelham Bay,9:00 - 20:00,5,True
+110,kmoorman31,Thai,Medium,SoHo,9:00 - 20:00,3,False
+111,rpurvess32,Pizza,Cheap,Flushing,9:00 - 20:00,5,True
+112,dclampe33,Mexican,Cheap,Tottenville,9:00 - 20:00,2,True
+113,cosanne34,Thai,Medium,Red Hook,9:00 - 20:00,5,True
+114,cchallenor35,Mexican,Cheap,Bushwick,9:00 - 20:00,2,True
+115,chazart36,Fast Food,Expensive,Bushwick,9:00 - 20:00,1,True
+116,fpetrello37,Korean,Expensive,Long Island City,9:00 - 20:00,3,True
+117,mdore38,French,Cheap,Park Slope,9:00 - 20:00,3,False
+118,dseif39,French,Cheap,Stapleton,9:00 - 20:00,4,False
+119,nmunt3a,Chinese,Cheap,Chelsea,9:00 - 20:00,5,False
+120,rcrowthe3b,Thai,Medium,Pelham Bay,9:00 - 20:00,2,False
+121,kleall3c,Pizza,Medium,Bushwick,9:00 - 20:00,4,True
+122,fsadd3d,Pizza,Cheap,Fordham,9:00 - 20:00,1,False
+123,jmccard3e,Indian,Cheap,Mott Haven,9:00 - 20:00,3,False
+124,flemoir3f,Indian,Expensive,Kingsbridge,9:00 - 20:00,5,True
+125,dmacpaike3g,Thai,Medium,Upper West Side,9:00 - 20:00,3,False
+126,mlepage3h,Japanese,Medium,Forest Hills,9:00 - 20:00,3,False
+127,mdomotor3i,Mexican,Cheap,Crown Heights,9:00 - 20:00,4,False
+128,afarryann3j,Burger,Cheap,Great Kills,9:00 - 20:00,2,True
+129,cchattey3k,Fast Food,Medium,Hunts Point,9:00 - 20:00,4,False
+130,fenochsson3l,Chinese,Cheap,Grasmere,9:00 - 20:00,5,True
+131,vawton3m,Thai,Medium,Mott Haven,9:00 - 20:00,5,True
+132,gmayberry3n,Japanese,Expensive,New Brighton,9:00 - 20:00,5,True
+133,cbenne3o,Chinese,Medium,Grasmere,9:00 - 20:00,2,True
+134,bquadrio3p,Chinese,Medium,Rego Park,9:00 - 20:00,3,False
+135,roughton3q,Japanese,Expensive,Throgs Neck,9:00 - 20:00,4,False
+136,astockney3r,Italian,Cheap,Long Island City,9:00 - 20:00,4,True
+137,bkemshell3s,Fast Food,Expensive,Riverdale,9:00 - 20:00,2,False
+138,bsarchwell3t,Indian,Medium,Woodside,9:00 - 20:00,4,True
+139,ohaker3u,Italian,Medium,Brooklyn Heights,9:00 - 20:00,2,True
+140,egawen3v,Korean,Cheap,Washington Heights,9:00 - 20:00,3,False
+141,ldurham3w,Indian,Expensive,Hunts Point,9:00 - 20:00,1,False
+142,mlambotin3x,Fast Food,Cheap,Greenpoint,9:00 - 20:00,1,False
+143,ofulloway3y,Chinese,Medium,Pelham Bay,9:00 - 20:00,3,True
+144,aelderidge3z,French,Medium,Jamaica,9:00 - 20:00,5,False
+145,mgibling40,Korean,Medium,Lower East Side,9:00 - 20:00,2,False
+146,dgammie41,French,Medium,DUMBO,9:00 - 20:00,3,True
+147,ckeuntje42,Chinese,Expensive,Soundview,9:00 - 20:00,5,True
+148,acushion43,Italian,Cheap,Soundview,9:00 - 20:00,3,True
+149,kgeldard44,Thai,Expensive,Brooklyn Heights,9:00 - 20:00,5,False
+150,fpostgate45,American,Medium,Midtown,9:00 - 20:00,2,False
+151,ebelliss46,Burger,Medium,Long Island City,9:00 - 20:00,4,True
+152,cbeggin47,Italian,Expensive,Mott Haven,9:00 - 20:00,4,False
+153,mcharlot48,Italian,Medium,Soundview,9:00 - 20:00,3,False
+154,tfreen49,Korean,Expensive,Crown Heights,9:00 - 20:00,4,False
+155,mcotton4a,Pizza,Medium,Rego Park,9:00 - 20:00,3,False
+156,edalli4b,Thai,Cheap,Lower East Side,9:00 - 20:00,2,False
+157,jsibbert4c,Indian,Expensive,Fordham,9:00 - 20:00,4,False
+158,aredpath4d,Burger,Cheap,Park Slope,9:00 - 20:00,3,False
+159,ccoplestone4e,Thai,Expensive,Greenwich Village,9:00 - 20:00,4,False
+160,nspurritt4f,French,Medium,Bushwick,9:00 - 20:00,4,True
+161,tglacken4g,Burger,Cheap,Riverdale,9:00 - 20:00,1,True
+162,sfulham4h,American,Cheap,Kingsbridge,9:00 - 20:00,3,False
+163,bstenners4i,Pizza,Medium,Belmont,9:00 - 20:00,5,True
+164,dhalksworth4j,Korean,Medium,Upper East Side,9:00 - 20:00,5,False
+165,afilgate4k,Indian,Expensive,Washington Heights,9:00 - 20:00,3,True
+166,lmcguiney4l,French,Cheap,Rego Park,9:00 - 20:00,3,True
+167,dtillman4m,Fast Food,Expensive,Bushwick,9:00 - 20:00,5,False
+168,msapshed4n,Fast Food,Medium,Midtown,9:00 - 20:00,3,False
+169,rcollingworth4o,Indian,Expensive,Tompkinsville,9:00 - 20:00,1,False
+170,borviss4p,French,Expensive,Flushing,9:00 - 20:00,5,False
+171,adowson4q,French,Cheap,Long Island City,9:00 - 20:00,2,False
+172,cpetticrow4r,American,Cheap,Washington Heights,9:00 - 20:00,1,False
+173,estaite4s,Fast Food,Cheap,Washington Heights,9:00 - 20:00,1,False
+174,wcarillo4t,American,Cheap,DUMBO,9:00 - 20:00,3,False
+175,cterlinden4u,Thai,Medium,Greenpoint,9:00 - 20:00,5,False
+176,atrounson4v,Thai,Cheap,Tottenville,9:00 - 20:00,1,True
+177,agroves4w,Burger,Cheap,Astoria,9:00 - 20:00,4,True
+178,relliss4x,Italian,Cheap,Tompkinsville,9:00 - 20:00,1,True
+179,reggar4y,American,Cheap,Kingsbridge,9:00 - 20:00,4,True
+180,xskin4z,Indian,Medium,Throgs Neck,9:00 - 20:00,5,True
+181,abrede50,Mexican,Medium,Tribeca,9:00 - 20:00,5,True
+182,bbraunfeld51,Chinese,Cheap,Flushing,9:00 - 20:00,1,False
+183,mbrew52,Burger,Expensive,Bayside,9:00 - 20:00,3,True
+184,ahuddart53,Indian,Cheap,Upper East Side,9:00 - 20:00,4,False
+185,jguiduzzi54,Mexican,Cheap,Brooklyn Heights,9:00 - 20:00,4,False
+186,hleadbeater55,Korean,Medium,Mott Haven,9:00 - 20:00,4,True
+187,lfathers56,Mexican,Medium,Rosebank,9:00 - 20:00,4,False
+188,pnewick57,Thai,Expensive,Jackson Heights,9:00 - 20:00,2,True
+189,dbeglin58,Italian,Cheap,Pelham Bay,9:00 - 20:00,2,False
+190,ecollecott59,Italian,Cheap,Grasmere,9:00 - 20:00,2,False
+191,acoop5a,Burger,Expensive,Rego Park,9:00 - 20:00,2,False
+192,aclair5b,Chinese,Medium,Hunts Point,9:00 - 20:00,1,True
+193,hgouch5c,Indian,Medium,Woodside,9:00 - 20:00,1,True
+194,tpauletti5d,Indian,Medium,Mott Haven,9:00 - 20:00,1,False
+195,kfishley5e,Mexican,Medium,Kingsbridge,9:00 - 20:00,3,True
+196,pfitzjohn5f,American,Expensive,Jamaica,9:00 - 20:00,3,False
+197,cupton5g,Fast Food,Medium,Hunts Point,9:00 - 20:00,1,False
+198,cmouland5h,Burger,Medium,Brooklyn Heights,9:00 - 20:00,3,True
+199,otosspell5i,Italian,Expensive,Upper East Side,9:00 - 20:00,1,False
+200,nmacmoyer5j,Chinese,Medium,Park Slope,9:00 - 20:00,2,False
+201,pmaple5k,Japanese,Cheap,Forest Hills,9:00 - 20:00,5,False
+202,tbarrand5l,French,Cheap,Washington Heights,9:00 - 20:00,2,False
+203,aastell5m,American,Medium,Belmont,9:00 - 20:00,3,True
+204,vpedro5n,Thai,Cheap,Bayside,9:00 - 20:00,5,False
+205,isydes5o,Mexican,Expensive,Midtown,9:00 - 20:00,2,True
+206,htolworthie5p,Fast Food,Cheap,Rosebank,9:00 - 20:00,2,True
+207,awoodings5q,Japanese,Cheap,Woodside,9:00 - 20:00,3,True
+208,dsavidge5r,Pizza,Medium,Bedford-Stuyvesant,9:00 - 20:00,4,False
+209,bwhittock5s,Thai,Expensive,Harlem,9:00 - 20:00,1,True
+210,gkennford5t,Korean,Medium,Upper West Side,9:00 - 20:00,5,False
+211,ddebrett5u,Italian,Cheap,Midtown,9:00 - 20:00,5,False
+212,nmelluish5v,Indian,Expensive,Bushwick,9:00 - 20:00,2,False
+213,mbirdsall5w,American,Cheap,Grasmere,9:00 - 20:00,1,False
+214,apasek5x,Fast Food,Medium,Crown Heights,9:00 - 20:00,2,True
+215,msach5y,American,Cheap,Stapleton,9:00 - 20:00,5,False
+216,skeat5z,Chinese,Medium,Pelham Bay,9:00 - 20:00,1,False
+217,jwelch60,American,Cheap,Lower East Side,9:00 - 20:00,2,False
+218,rovery61,Italian,Cheap,Red Hook,9:00 - 20:00,1,True
+219,eortner62,Chinese,Cheap,Morris Park,9:00 - 20:00,2,True
+220,mmunson63,Thai,Medium,Rosebank,9:00 - 20:00,4,True
+221,jballsdon64,Pizza,Cheap,Long Island City,9:00 - 20:00,3,True
+222,bglowach65,Pizza,Medium,Tompkinsville,9:00 - 20:00,5,True
+223,croscrigg66,Mexican,Cheap,Upper West Side,9:00 - 20:00,2,True
+224,eladds67,Indian,Cheap,Pelham Bay,9:00 - 20:00,4,False
+225,frait68,Burger,Medium,Westerleigh,9:00 - 20:00,5,True
+226,rfurman69,Japanese,Expensive,Greenwich Village,9:00 - 20:00,3,True
+227,aokey6a,Italian,Cheap,Red Hook,9:00 - 20:00,3,False
+228,urandales6b,Korean,Medium,Hunts Point,9:00 - 20:00,2,True
+229,lmoss6c,Italian,Expensive,Long Island City,9:00 - 20:00,2,True
+230,psowood6d,Italian,Expensive,Bushwick,9:00 - 20:00,5,False
+231,hemmanuele6e,American,Medium,Riverdale,9:00 - 20:00,1,False
+232,kmackeague6f,Pizza,Expensive,Flushing,9:00 - 20:00,2,False
+233,lovenell6g,Korean,Medium,Great Kills,9:00 - 20:00,1,True
+234,tpiggen6h,Thai,Expensive,Park Slope,9:00 - 20:00,4,True
+235,tlink6i,Fast Food,Expensive,Mott Haven,9:00 - 20:00,1,True
+236,ecawse6j,Thai,Medium,Bayside,9:00 - 20:00,3,False
+237,rechlin6k,Italian,Expensive,Jackson Heights,9:00 - 20:00,4,True
+238,dmaides6l,Chinese,Cheap,SoHo,9:00 - 20:00,4,False
+239,bdracksford6m,Japanese,Expensive,Soundview,9:00 - 20:00,3,False
+240,khutchason6n,Indian,Cheap,Red Hook,9:00 - 20:00,2,True
+241,apennick6o,American,Expensive,Washington Heights,9:00 - 20:00,1,False
+242,dclayworth6p,Italian,Medium,Riverdale,9:00 - 20:00,2,False
+243,psentinella6q,Korean,Expensive,Morris Park,9:00 - 20:00,1,False
+244,esherlaw6r,French,Cheap,Prospect Heights,9:00 - 20:00,2,True
+245,pdjokic6s,Burger,Medium,Harlem,9:00 - 20:00,1,False
+246,lloudyan6t,American,Cheap,Brooklyn Heights,9:00 - 20:00,2,False
+247,fpassion6u,Chinese,Cheap,Rosebank,9:00 - 20:00,3,True
+248,paudry6v,Thai,Expensive,Bedford-Stuyvesant,9:00 - 20:00,2,False
+249,pmatevosian6w,Korean,Expensive,Park Slope,9:00 - 20:00,4,True
+250,ccurragh6x,Mexican,Medium,Kingsbridge,9:00 - 20:00,1,True
+251,mgreguol6y,Italian,Cheap,Jamaica,9:00 - 20:00,3,False
+252,dkearney6z,Italian,Cheap,Rego Park,9:00 - 20:00,4,True
+253,cbonnet70,Chinese,Medium,Tribeca,9:00 - 20:00,5,True
+254,kmuspratt71,Chinese,Cheap,Sunnyside,9:00 - 20:00,5,False
+255,amcilvenna72,Burger,Medium,Riverdale,9:00 - 20:00,4,False
+256,lconradsen73,Thai,Medium,Brooklyn Heights,9:00 - 20:00,5,False
+257,bwild74,Japanese,Cheap,Midtown,9:00 - 20:00,1,False
+258,aclemes75,Pizza,Expensive,Tottenville,9:00 - 20:00,2,True
+259,cdebullion76,Pizza,Medium,Long Island City,9:00 - 20:00,3,False
+260,treeder77,Mexican,Cheap,Jamaica,9:00 - 20:00,2,True
+261,rketcher78,Japanese,Expensive,Tompkinsville,9:00 - 20:00,4,True
+262,ewyllie79,Burger,Cheap,Midtown,9:00 - 20:00,2,True
+263,hkayley7a,Pizza,Expensive,Washington Heights,9:00 - 20:00,3,True
+264,nhewlings7b,Fast Food,Medium,Astoria,9:00 - 20:00,3,False
+265,pdolley7c,Indian,Cheap,Morris Park,9:00 - 20:00,5,True
+266,shorsley7d,Pizza,Expensive,Soundview,9:00 - 20:00,4,False
+267,ttumasian7e,Thai,Cheap,Greenwich Village,9:00 - 20:00,4,False
+268,bsingyard7f,Italian,Cheap,Greenwich Village,9:00 - 20:00,3,False
+269,dlochead7g,Fast Food,Expensive,Jamaica,9:00 - 20:00,2,False
+270,cgeddis7h,Indian,Cheap,Brooklyn Heights,9:00 - 20:00,5,False
+271,tdavidzon7i,Italian,Expensive,Kingsbridge,9:00 - 20:00,1,False
+272,areiners7j,Burger,Medium,Midtown,9:00 - 20:00,1,True
+273,lmanis7k,Italian,Medium,Rego Park,9:00 - 20:00,4,False
+274,corrobin7l,Chinese,Expensive,Harlem,9:00 - 20:00,5,True
+275,tthornally7m,Fast Food,Cheap,Forest Hills,9:00 - 20:00,3,False
+276,asigne7n,Pizza,Cheap,Upper West Side,9:00 - 20:00,4,True
+277,akainz7o,Pizza,Cheap,Stapleton,9:00 - 20:00,3,False
+278,mdriuzzi7p,French,Expensive,Mott Haven,9:00 - 20:00,5,False
+279,tcasement7q,Fast Food,Medium,Crown Heights,9:00 - 20:00,5,True
+280,kmaidment7r,Burger,Medium,Midtown,9:00 - 20:00,3,True
+281,tvalente7s,Korean,Cheap,Washington Heights,9:00 - 20:00,1,False
+282,jdelion7t,French,Medium,Greenwich Village,9:00 - 20:00,3,False
+283,mlaughlin7u,French,Medium,Kingsbridge,9:00 - 20:00,2,True
+284,esperring7v,Thai,Cheap,Midtown,9:00 - 20:00,1,True
+285,djurasz7w,American,Medium,Long Island City,9:00 - 20:00,1,True
+286,jjukubczak7x,Thai,Expensive,Greenwich Village,9:00 - 20:00,4,False
+287,mamberg7y,Pizza,Cheap,Sunnyside,9:00 - 20:00,4,True
+288,ppetras7z,Italian,Expensive,SoHo,9:00 - 20:00,1,False
+289,biorizzi80,Indian,Expensive,Pelham Bay,9:00 - 20:00,4,True
+290,wcherrett81,Korean,Expensive,Stapleton,9:00 - 20:00,4,False
+291,halves82,Pizza,Expensive,Grasmere,9:00 - 20:00,1,False
+292,bedgeson83,Japanese,Expensive,Rosebank,9:00 - 20:00,3,False
+293,wsymmons84,Thai,Medium,Hunts Point,9:00 - 20:00,4,False
+294,hmougenel85,Thai,Medium,Upper West Side,9:00 - 20:00,5,False
+295,ucartledge86,Japanese,Cheap,Riverdale,9:00 - 20:00,5,False
+296,scoat87,Chinese,Medium,Crown Heights,9:00 - 20:00,1,True
+297,gdogg88,Fast Food,Medium,Belmont,9:00 - 20:00,5,False
+298,wrodman89,Thai,Cheap,Annadale,9:00 - 20:00,2,False
+299,lbeacock8a,American,Expensive,Pelham Bay,9:00 - 20:00,4,False
+300,hkorneichik8b,Japanese,Cheap,Harlem,9:00 - 20:00,4,False
+301,rramage8c,Mexican,Cheap,Greenwich Village,9:00 - 20:00,1,False
+302,cbilverstone8d,Chinese,Medium,SoHo,9:00 - 20:00,3,True
+303,slaherty8e,Mexican,Cheap,Soundview,9:00 - 20:00,5,True
+304,spulbrook8f,American,Expensive,Chelsea,9:00 - 20:00,5,True
+305,radanet8g,Pizza,Medium,Astoria,9:00 - 20:00,1,True
+306,fholttom8h,French,Cheap,Park Slope,9:00 - 20:00,5,True
+307,jgwynn8i,Burger,Medium,Astoria,9:00 - 20:00,5,False
+308,fmycock8j,Fast Food,Cheap,Crown Heights,9:00 - 20:00,1,True
+309,dderill8k,French,Expensive,Belmont,9:00 - 20:00,2,False
+310,rdehn8l,Indian,Medium,Throgs Neck,9:00 - 20:00,1,True
+311,jbeange8m,Japanese,Medium,Woodside,9:00 - 20:00,3,False
+312,dgascar8n,French,Cheap,Harlem,9:00 - 20:00,4,False
+313,asearby8o,Chinese,Expensive,Soundview,9:00 - 20:00,1,True
+314,vstapford8p,Korean,Cheap,Tribeca,9:00 - 20:00,4,False
+315,lmesant8q,Korean,Expensive,Park Slope,9:00 - 20:00,4,True
+316,vmarrian8r,Mexican,Cheap,Prospect Heights,9:00 - 20:00,2,False
+317,nparchment8s,Italian,Medium,Annadale,9:00 - 20:00,2,False
+318,rtolomio8t,Japanese,Cheap,Jamaica,9:00 - 20:00,3,True
+319,vhillburn8u,American,Expensive,Greenwich Village,9:00 - 20:00,2,False
+320,rkobus8v,Fast Food,Medium,Chelsea,9:00 - 20:00,5,True
+321,dassad8w,American,Cheap,Morris Park,9:00 - 20:00,1,False
+322,atobin8x,Burger,Cheap,Woodside,9:00 - 20:00,4,False
+323,epolotti8y,Indian,Expensive,Westerleigh,9:00 - 20:00,2,False
+324,eellesworth8z,Indian,Medium,Great Kills,9:00 - 20:00,3,False
+325,mwarkup90,Mexican,Medium,DUMBO,9:00 - 20:00,1,True
+326,cboden91,Pizza,Expensive,Forest Hills,9:00 - 20:00,4,False
+327,gbradnock92,Thai,Cheap,Soundview,9:00 - 20:00,1,False
+328,jvauter93,Thai,Cheap,Long Island City,9:00 - 20:00,5,False
+329,gcawsy94,Korean,Cheap,SoHo,9:00 - 20:00,3,True
+330,cduggan95,French,Medium,Midtown,9:00 - 20:00,4,True
+331,awalling96,Thai,Medium,Mott Haven,9:00 - 20:00,3,False
+332,orittelmeyer97,Thai,Expensive,Woodside,9:00 - 20:00,1,True
+333,tcrosi98,Pizza,Medium,Greenpoint,9:00 - 20:00,2,False
+334,civashechkin99,Pizza,Cheap,Jamaica,9:00 - 20:00,1,True
+335,catherton9a,Pizza,Expensive,Fordham,9:00 - 20:00,3,False
+336,tlarver9b,Thai,Expensive,DUMBO,9:00 - 20:00,1,True
+337,jsteutly9c,Italian,Cheap,Astoria,9:00 - 20:00,2,True
+338,bbissill9d,Burger,Cheap,Kingsbridge,9:00 - 20:00,1,True
+339,dkobisch9e,Mexican,Expensive,Tompkinsville,9:00 - 20:00,1,False
+340,tcrumpton9f,Indian,Expensive,Woodside,9:00 - 20:00,3,True
+341,hthrossell9g,Italian,Cheap,Bedford-Stuyvesant,9:00 - 20:00,2,False
+342,cscrancher9h,Mexican,Cheap,DUMBO,9:00 - 20:00,2,True
+343,prainard9i,Fast Food,Expensive,Midtown,9:00 - 20:00,3,True
+344,sgabotti9j,Fast Food,Medium,Jamaica,9:00 - 20:00,5,False
+345,bmallock9k,Chinese,Cheap,Bedford-Stuyvesant,9:00 - 20:00,3,True
+346,chabershon9l,Indian,Expensive,Chelsea,9:00 - 20:00,5,False
+347,jtappington9m,Pizza,Expensive,Hunts Point,9:00 - 20:00,4,False
+348,mbassil9n,Italian,Cheap,Brooklyn Heights,9:00 - 20:00,2,True
+349,mtrytsman9o,Japanese,Medium,Soundview,9:00 - 20:00,1,True
+350,geberst9p,Japanese,Expensive,Pelham Bay,9:00 - 20:00,1,False
+351,jpiscotti9q,French,Cheap,New Brighton,9:00 - 20:00,2,False
+352,bdovinson9r,Italian,Medium,Jamaica,9:00 - 20:00,2,False
+353,dmclinden9s,Mexican,Expensive,Bayside,9:00 - 20:00,1,False
+354,rheed9t,Thai,Expensive,Bayside,9:00 - 20:00,2,True
+355,tedensor9u,Fast Food,Cheap,Morris Park,9:00 - 20:00,1,False
+356,pgardener9v,Mexican,Expensive,Bushwick,9:00 - 20:00,1,True
+357,areuss9w,Mexican,Medium,Hunts Point,9:00 - 20:00,4,True
+358,aturfs9x,Korean,Expensive,Long Island City,9:00 - 20:00,2,False
+359,lparkins9y,Burger,Expensive,Stapleton,9:00 - 20:00,1,True
+360,wmacgille9z,Fast Food,Cheap,Upper East Side,9:00 - 20:00,4,False
+361,jspencelayha0,Chinese,Expensive,Bedford-Stuyvesant,9:00 - 20:00,2,True
+362,ggregsa1,Indian,Medium,Rosebank,9:00 - 20:00,4,False
+363,fblincowa2,Korean,Medium,Tompkinsville,9:00 - 20:00,5,False
+364,ogeddesa3,Indian,Expensive,Great Kills,9:00 - 20:00,1,False
+365,sgriswaitea4,Thai,Cheap,Astoria,9:00 - 20:00,4,False
+366,cparloura5,Thai,Cheap,Chelsea,9:00 - 20:00,5,False
+367,oromagosaa6,American,Expensive,Great Kills,9:00 - 20:00,1,False
+368,dbiskupeka7,Italian,Medium,Jackson Heights,9:00 - 20:00,1,False
+369,blegranda8,Indian,Medium,Pelham Bay,9:00 - 20:00,1,True
+370,ctullya9,Fast Food,Medium,DUMBO,9:00 - 20:00,2,False
+371,rpridgeonaa,Pizza,Medium,Harlem,9:00 - 20:00,2,False
+372,sdowsingab,Italian,Medium,Flushing,9:00 - 20:00,1,True
+373,kexleyac,Italian,Medium,Annadale,9:00 - 20:00,2,False
+374,sturevillead,Pizza,Expensive,Fordham,9:00 - 20:00,3,True
+375,nemneyae,Korean,Cheap,Bayside,9:00 - 20:00,1,False
+376,ggallemoreaf,Mexican,Cheap,DUMBO,9:00 - 20:00,2,False
+377,wsanperag,Korean,Cheap,Flushing,9:00 - 20:00,3,True
+378,binksterah,Thai,Cheap,Brooklyn Heights,9:00 - 20:00,1,False
+379,flasseyai,Indian,Medium,Upper West Side,9:00 - 20:00,4,True
+380,dlambartonaj,Indian,Expensive,DUMBO,9:00 - 20:00,1,False
+381,agrimsdykeak,Chinese,Medium,Soundview,9:00 - 20:00,4,True
+382,hllewellinal,Burger,Medium,Morris Park,9:00 - 20:00,1,True
+383,bwakesam,Mexican,Medium,Woodside,9:00 - 20:00,5,True
+384,dkenanan,Korean,Expensive,Forest Hills,9:00 - 20:00,1,False
+385,bluciusao,Korean,Medium,Jackson Heights,9:00 - 20:00,2,True
+386,bgruszkaap,Indian,Cheap,New Brighton,9:00 - 20:00,5,False
+387,epeeleaq,American,Expensive,Washington Heights,9:00 - 20:00,1,False
+388,nlaffertyar,Fast Food,Expensive,Washington Heights,9:00 - 20:00,1,False
+389,sthirlwellas,Japanese,Cheap,Flushing,9:00 - 20:00,3,False
+390,hupexat,Burger,Medium,Crown Heights,9:00 - 20:00,5,True
+391,mcroslandau,Korean,Expensive,Tottenville,9:00 - 20:00,3,True
+392,erowbreyav,Korean,Expensive,Tribeca,9:00 - 20:00,2,True
+393,ebooreraw,Mexican,Expensive,Tottenville,9:00 - 20:00,3,False
+394,ccoardax,American,Expensive,Prospect Heights,9:00 - 20:00,5,True
+395,klockhartay,Indian,Expensive,Hunts Point,9:00 - 20:00,3,False
+396,jshortenaz,Chinese,Cheap,Astoria,9:00 - 20:00,4,True
+397,crenodenb0,Japanese,Expensive,SoHo,9:00 - 20:00,2,True
+398,ccubbinib1,Chinese,Cheap,Red Hook,9:00 - 20:00,5,True
+399,tclistb2,Mexican,Medium,Pelham Bay,9:00 - 20:00,4,True
+400,svolonteb3,Korean,Cheap,Prospect Heights,9:00 - 20:00,4,True
+401,tcheasmanb4,Fast Food,Expensive,Jamaica,9:00 - 20:00,5,False
+402,cdionisettib5,Japanese,Medium,Bedford-Stuyvesant,9:00 - 20:00,4,True
+403,seckleyb6,American,Cheap,Mott Haven,9:00 - 20:00,2,True
+404,kroakesb7,Pizza,Cheap,Upper East Side,9:00 - 20:00,2,False
+405,lcatleyb8,Korean,Medium,Greenwich Village,9:00 - 20:00,5,False
+406,cbarenskyb9,Burger,Medium,Jackson Heights,9:00 - 20:00,5,False
+407,dthroughtonba,Fast Food,Expensive,Astoria,9:00 - 20:00,5,False
+408,lnouchbb,Japanese,Expensive,Tribeca,9:00 - 20:00,3,False
+409,cslimmonbc,Korean,Expensive,Chelsea,9:00 - 20:00,1,True
+410,fbuxseybd,Indian,Cheap,Belmont,9:00 - 20:00,2,True
+411,kgappbe,American,Expensive,Long Island City,9:00 - 20:00,1,True
+412,kbaggbf,Thai,Cheap,Lower East Side,9:00 - 20:00,3,True
+413,tpurchesbg,Japanese,Cheap,Tompkinsville,9:00 - 20:00,4,True
+414,cyosselevitchbh,Indian,Medium,Hunts Point,9:00 - 20:00,3,False
+415,cheninghembi,Fast Food,Cheap,Rego Park,9:00 - 20:00,3,True
+416,cericksonbj,Korean,Medium,Park Slope,9:00 - 20:00,4,True
+417,cmcgeebk,French,Medium,Jackson Heights,9:00 - 20:00,4,True
+418,aromainebl,American,Cheap,SoHo,9:00 - 20:00,4,False
+419,zlemarbm,Burger,Medium,Mott Haven,9:00 - 20:00,3,False
+420,ngelderdbn,Japanese,Cheap,Throgs Neck,9:00 - 20:00,5,True
+421,ahelixbo,Japanese,Medium,Harlem,9:00 - 20:00,4,True
+422,ecomibp,Burger,Expensive,Tribeca,9:00 - 20:00,1,False
+423,nmalanbq,Chinese,Expensive,DUMBO,9:00 - 20:00,3,False
+424,lveneurbr,Japanese,Medium,Woodside,9:00 - 20:00,4,True
+425,fdormanbs,Burger,Medium,Kingsbridge,9:00 - 20:00,2,True
+426,alumberbt,Indian,Expensive,DUMBO,9:00 - 20:00,3,False
+427,cswyrebu,Mexican,Medium,Tribeca,9:00 - 20:00,1,False
+428,rfingletonbv,Pizza,Expensive,Throgs Neck,9:00 - 20:00,2,True
+429,wcattbw,Burger,Expensive,Tottenville,9:00 - 20:00,3,False
+430,stomovicbx,Italian,Cheap,Tompkinsville,9:00 - 20:00,5,True
+431,lmackinderby,Korean,Cheap,Upper East Side,9:00 - 20:00,3,True
+432,ostonebz,American,Medium,Midtown,9:00 - 20:00,1,False
+433,ptrevenuc0,Fast Food,Expensive,Tompkinsville,9:00 - 20:00,2,True
+434,cromac1,Mexican,Cheap,Westerleigh,9:00 - 20:00,2,True
+435,wkinnierc2,Thai,Expensive,Greenwich Village,9:00 - 20:00,5,False
+436,ftripec3,Japanese,Expensive,SoHo,9:00 - 20:00,2,True
+437,rdechellec4,Burger,Medium,New Brighton,9:00 - 20:00,4,True
+438,mmortellc5,Fast Food,Medium,Westerleigh,9:00 - 20:00,3,False
+439,brickardc6,American,Cheap,Stapleton,9:00 - 20:00,3,True
+440,gbodicamc7,French,Medium,Hunts Point,9:00 - 20:00,1,False
+441,cmcilhargac8,Japanese,Cheap,Greenwich Village,9:00 - 20:00,5,False
+442,njoirec9,American,Expensive,Great Kills,9:00 - 20:00,1,True
+443,cburdinca,Korean,Expensive,Throgs Neck,9:00 - 20:00,2,False
+444,nellsburycb,Italian,Expensive,Tribeca,9:00 - 20:00,2,False
+445,urawstornecc,French,Medium,Great Kills,9:00 - 20:00,2,True
+446,tklaffscd,Indian,Cheap,Sunnyside,9:00 - 20:00,3,False
+447,sswinyardce,Italian,Expensive,Long Island City,9:00 - 20:00,4,True
+448,mreddlecf,Thai,Expensive,Long Island City,9:00 - 20:00,5,True
+449,wvinsoncg,Thai,Cheap,Flushing,9:00 - 20:00,2,True
+450,mjoshamch,French,Expensive,Greenpoint,9:00 - 20:00,1,False
+451,rrieplci,Burger,Medium,Annadale,9:00 - 20:00,2,False
+452,vdepaolicj,Pizza,Medium,Bushwick,9:00 - 20:00,1,True
+453,eprovostck,Korean,Medium,Park Slope,9:00 - 20:00,2,False
+454,hbadrockcl,Mexican,Cheap,Morris Park,9:00 - 20:00,3,True
+455,mfaierscm,French,Expensive,New Brighton,9:00 - 20:00,5,False
+456,deggarcn,Chinese,Medium,Jamaica,9:00 - 20:00,4,False
+457,ecottaco,French,Expensive,Flushing,9:00 - 20:00,3,True
+458,llowingcp,Indian,Medium,Brooklyn Heights,9:00 - 20:00,1,False
+459,jmccoughancq,French,Medium,DUMBO,9:00 - 20:00,2,False
+460,alevenecr,Korean,Cheap,Brooklyn Heights,9:00 - 20:00,3,False
+461,ogierhardcs,American,Cheap,Jackson Heights,9:00 - 20:00,3,False
+462,lsokillct,Indian,Cheap,Grasmere,9:00 - 20:00,2,True
+463,ghugonincu,Italian,Expensive,New Brighton,9:00 - 20:00,5,True
+464,omerrycv,Burger,Expensive,Grasmere,9:00 - 20:00,4,False
+465,pellardcw,Japanese,Medium,Woodside,9:00 - 20:00,2,False
+466,pdurandcx,Pizza,Expensive,Upper West Side,9:00 - 20:00,5,False
+467,iluxency,Italian,Medium,Bushwick,9:00 - 20:00,5,False
+468,sbettlescz,Burger,Cheap,Flushing,9:00 - 20:00,5,False
+469,rhounsomd0,American,Cheap,Pelham Bay,9:00 - 20:00,3,True
+470,acowoped1,Korean,Cheap,Upper West Side,9:00 - 20:00,5,True
+471,btunneyd2,Indian,Medium,Morris Park,9:00 - 20:00,4,False
+472,mcoultassd3,Thai,Expensive,Park Slope,9:00 - 20:00,3,True
+473,vbeardd4,Italian,Expensive,SoHo,9:00 - 20:00,4,True
+474,gtrengroused5,Korean,Expensive,Park Slope,9:00 - 20:00,5,True
+475,rleemand6,Indian,Cheap,Kingsbridge,9:00 - 20:00,5,False
+476,dburnhardd7,Italian,Medium,Greenpoint,9:00 - 20:00,4,True
+477,ctunyd8,Thai,Expensive,Grasmere,9:00 - 20:00,5,False
+478,dwaddinghamd9,Fast Food,Expensive,Rego Park,9:00 - 20:00,1,False
+479,cmacronaldda,Chinese,Medium,Greenwich Village,9:00 - 20:00,5,False
+480,triddiforddb,Indian,Cheap,Tottenville,9:00 - 20:00,1,False
+481,awateridgedc,Italian,Cheap,Tottenville,9:00 - 20:00,5,False
+482,bsharpousdd,Mexican,Expensive,Forest Hills,9:00 - 20:00,3,True
+483,awhightmande,French,Expensive,Chelsea,9:00 - 20:00,1,False
+484,kkubicekdf,Indian,Cheap,Washington Heights,9:00 - 20:00,1,False
+485,ptreedg,Chinese,Expensive,Fordham,9:00 - 20:00,5,True
+486,jtompkinsdh,Italian,Medium,Great Kills,9:00 - 20:00,5,True
+487,pfinlrydi,Chinese,Cheap,SoHo,9:00 - 20:00,1,True
+488,shausedj,Pizza,Medium,Rosebank,9:00 - 20:00,5,True
+489,nmccawdk,French,Medium,Upper East Side,9:00 - 20:00,2,True
+490,prippindl,Korean,Cheap,Great Kills,9:00 - 20:00,4,True
+491,pkerleydm,Chinese,Medium,Fordham,9:00 - 20:00,3,True
+492,lbroomedn,Italian,Cheap,Hunts Point,9:00 - 20:00,5,True
+493,blinsteaddo,Pizza,Expensive,Westerleigh,9:00 - 20:00,3,True
+494,bkehirdp,Pizza,Expensive,Westerleigh,9:00 - 20:00,2,True
+495,lzanetellodq,Korean,Cheap,Sunnyside,9:00 - 20:00,5,True
+496,lbizzeydr,French,Medium,Westerleigh,9:00 - 20:00,5,True
+497,jisakovicds,Italian,Cheap,Morris Park,9:00 - 20:00,5,False
+498,dmealiffedt,American,Expensive,Harlem,9:00 - 20:00,2,False
+499,cgerholddu,Burger,Medium,Fordham,9:00 - 20:00,1,True
+500,dbrandonidv,French,Expensive,Tribeca,9:00 - 20:00,2,True
+501,atraisedw,Burger,Medium,New Brighton,9:00 - 20:00,2,False
+502,glinddx,Italian,Expensive,Crown Heights,9:00 - 20:00,1,True
+503,gmonandy,Japanese,Expensive,Upper West Side,9:00 - 20:00,1,False
+504,dfairlambdz,Fast Food,Cheap,Chelsea,9:00 - 20:00,2,True
+505,rewene0,Korean,Cheap,Tribeca,9:00 - 20:00,4,True
+506,kstuckleye1,Pizza,Expensive,Kingsbridge,9:00 - 20:00,3,False
+507,mspradbrowe2,Chinese,Cheap,Woodside,9:00 - 20:00,2,True
+508,gjayse3,Chinese,Cheap,Park Slope,9:00 - 20:00,3,True
+509,cmizene4,Fast Food,Medium,Sunnyside,9:00 - 20:00,1,True
+510,koppiee5,Burger,Medium,Greenpoint,9:00 - 20:00,1,True
+511,jpaseke6,Indian,Cheap,Park Slope,9:00 - 20:00,2,True
+512,mfranklene7,Mexican,Medium,Tompkinsville,9:00 - 20:00,3,False
+513,emuriele8,Burger,Cheap,Westerleigh,9:00 - 20:00,5,True
+514,rsprucee9,Japanese,Cheap,Park Slope,9:00 - 20:00,2,False
+515,jjaxonea,French,Expensive,Great Kills,9:00 - 20:00,3,False
+516,abissatteb,Japanese,Cheap,Greenwich Village,9:00 - 20:00,5,False
+517,jriccardelliec,Indian,Expensive,Grasmere,9:00 - 20:00,1,True
+518,zrisebrowed,Fast Food,Cheap,Fordham,9:00 - 20:00,4,True
+519,drosleee,Thai,Expensive,Astoria,9:00 - 20:00,2,False
+520,pezzellef,Pizza,Medium,Woodside,9:00 - 20:00,5,True
+521,abelkeg,Thai,Cheap,Morris Park,9:00 - 20:00,3,False
+522,nwinnetteh,Thai,Medium,Bayside,9:00 - 20:00,2,False
+523,rbuntenei,Burger,Cheap,Red Hook,9:00 - 20:00,5,True
+524,lpfertnerej,Mexican,Medium,Brooklyn Heights,9:00 - 20:00,5,False
+525,abarlasek,Italian,Cheap,Red Hook,9:00 - 20:00,1,False
+526,jmcgraghel,Chinese,Expensive,Sunnyside,9:00 - 20:00,2,True
+527,dspaldingem,Mexican,Medium,Woodside,9:00 - 20:00,2,True
+528,ghoutenen,Chinese,Cheap,Jamaica,9:00 - 20:00,5,True
+529,rbeharrelleo,American,Expensive,Belmont,9:00 - 20:00,1,False
+530,amerkelep,Mexican,Expensive,Greenwich Village,9:00 - 20:00,2,False
+531,umurcutteq,Burger,Medium,Rego Park,9:00 - 20:00,4,False
+532,dgerbeler,Japanese,Expensive,Hunts Point,9:00 - 20:00,5,True
+533,fbeaverses,French,Expensive,Woodside,9:00 - 20:00,5,False
+534,lmullineret,Indian,Expensive,Greenpoint,9:00 - 20:00,1,True
+535,sdomoneeu,Fast Food,Expensive,Rego Park,9:00 - 20:00,2,True
+536,htareeev,Italian,Medium,Chelsea,9:00 - 20:00,2,True
+537,tbursnellew,Burger,Cheap,Bedford-Stuyvesant,9:00 - 20:00,5,False
+538,ydoeex,Thai,Cheap,Long Island City,9:00 - 20:00,2,False
+539,jwendeney,Indian,Cheap,Greenpoint,9:00 - 20:00,3,True
+540,sgatheralez,Burger,Medium,Upper West Side,9:00 - 20:00,3,False
+541,fredmoref0,Burger,Medium,Soundview,9:00 - 20:00,1,True
+542,xlowrief1,Indian,Cheap,Brooklyn Heights,9:00 - 20:00,5,True
+543,dtraysf2,Italian,Medium,Washington Heights,9:00 - 20:00,2,True
+544,icoplestonef3,French,Cheap,Upper East Side,9:00 - 20:00,5,False
+545,fcuddef4,Mexican,Medium,Tottenville,9:00 - 20:00,4,False
+546,etrenbeyf5,Mexican,Medium,Jackson Heights,9:00 - 20:00,3,False
+547,rjoshamf6,Fast Food,Cheap,Throgs Neck,9:00 - 20:00,3,True
+548,wirelandf7,Indian,Expensive,Jackson Heights,9:00 - 20:00,3,True
+549,rhalsef8,Burger,Expensive,Harlem,9:00 - 20:00,5,False
+550,bprosserf9,Indian,Medium,Upper East Side,9:00 - 20:00,2,True
+551,fogerfa,American,Medium,Prospect Heights,9:00 - 20:00,1,False
+552,eingrefb,Pizza,Medium,Soundview,9:00 - 20:00,5,False
+553,htwinbrowfc,Indian,Cheap,Greenwich Village,9:00 - 20:00,2,True
+554,ycourtoisfd,Mexican,Expensive,Astoria,9:00 - 20:00,5,True
+555,elochfe,French,Cheap,Upper East Side,9:00 - 20:00,1,False
+556,mbansteadff,Italian,Cheap,Harlem,9:00 - 20:00,4,False
+557,bsummersonfg,Indian,Cheap,DUMBO,9:00 - 20:00,3,True
+558,bsorrillfh,Italian,Cheap,Tottenville,9:00 - 20:00,2,True
+559,leyreefi,French,Expensive,Pelham Bay,9:00 - 20:00,5,True
+560,dfulcherfj,French,Medium,Mott Haven,9:00 - 20:00,4,False
+561,calmakfk,Indian,Cheap,Greenpoint,9:00 - 20:00,5,True
+562,cdahmkefl,Italian,Medium,Chelsea,9:00 - 20:00,5,True
+563,asheringtonfm,Indian,Cheap,Stapleton,9:00 - 20:00,3,False
+564,sbrimfn,American,Medium,Westerleigh,9:00 - 20:00,1,True
+565,kmattessenfo,Japanese,Expensive,Bedford-Stuyvesant,9:00 - 20:00,2,False
+566,kbaserfp,American,Medium,Great Kills,9:00 - 20:00,2,False
+567,cdorneyfq,Thai,Medium,Prospect Heights,9:00 - 20:00,1,False
+568,podbyfr,French,Cheap,Mott Haven,9:00 - 20:00,3,True
+569,pmcrobbiefs,Pizza,Medium,Washington Heights,9:00 - 20:00,3,False
+570,rchurchmanft,Burger,Medium,Jackson Heights,9:00 - 20:00,4,False
+571,dtatlowfu,Japanese,Medium,Stapleton,9:00 - 20:00,3,False
+572,amcchruiterfv,Indian,Medium,Morris Park,9:00 - 20:00,3,False
+573,bowtramfw,Korean,Medium,Riverdale,9:00 - 20:00,2,True
+574,mlauksfx,Italian,Expensive,Forest Hills,9:00 - 20:00,3,True
+575,cburnardfy,Indian,Medium,Rosebank,9:00 - 20:00,3,False
+576,aknibbfz,Indian,Medium,Mott Haven,9:00 - 20:00,5,True
+577,lsimonetong0,Korean,Expensive,Washington Heights,9:00 - 20:00,1,True
+578,eallnattg1,Mexican,Medium,Washington Heights,9:00 - 20:00,4,True
+579,wmucklestoneg2,French,Cheap,Lower East Side,9:00 - 20:00,3,True
+580,bsellarsg3,Korean,Cheap,Greenwich Village,9:00 - 20:00,2,True
+581,nhousemang4,Chinese,Cheap,Tottenville,9:00 - 20:00,4,False
+582,acattelliong5,Burger,Expensive,Annadale,9:00 - 20:00,1,False
+583,hdickong6,Korean,Cheap,Washington Heights,9:00 - 20:00,1,False
+584,kcrowdeng7,Chinese,Medium,Belmont,9:00 - 20:00,2,False
+585,amayzeg8,Pizza,Cheap,Midtown,9:00 - 20:00,5,False
+586,mchickg9,Chinese,Expensive,Jackson Heights,9:00 - 20:00,1,False
+587,tjupega,Italian,Expensive,Annadale,9:00 - 20:00,5,True
+588,rirvinegb,American,Medium,DUMBO,9:00 - 20:00,4,True
+589,gfevergc,Korean,Expensive,Tribeca,9:00 - 20:00,1,False
+590,tventuroligd,Pizza,Expensive,Soundview,9:00 - 20:00,1,False
+591,emaccrackenge,Italian,Cheap,Grasmere,9:00 - 20:00,5,True
+592,dmanneringgf,Thai,Cheap,Prospect Heights,9:00 - 20:00,4,False
+593,fdystergg,Italian,Cheap,Astoria,9:00 - 20:00,1,False
+594,pridgersgh,Fast Food,Medium,Greenwich Village,9:00 - 20:00,3,False
+595,gverricogi,Thai,Expensive,Riverdale,9:00 - 20:00,2,True
+596,bwaddamsgj,Indian,Cheap,Mott Haven,9:00 - 20:00,1,False
+597,dcasolgk,Pizza,Expensive,Throgs Neck,9:00 - 20:00,2,False
+598,cowbridgegl,Chinese,Medium,Long Island City,9:00 - 20:00,5,False
+599,wrickardssongm,Japanese,Medium,Stapleton,9:00 - 20:00,4,False
+600,cmethleygn,Mexican,Expensive,Hunts Point,9:00 - 20:00,3,True
+601,kpaddygo,Indian,Expensive,Lower East Side,9:00 - 20:00,1,False
+602,tsidesgp,French,Cheap,Soundview,9:00 - 20:00,2,True
+603,lrushmangq,Pizza,Cheap,Bayside,9:00 - 20:00,1,True
+604,apilmergr,Indian,Cheap,Tottenville,9:00 - 20:00,2,True
+605,jbaldazzigs,Burger,Cheap,Belmont,9:00 - 20:00,2,False
+606,bchealesgt,Thai,Expensive,Brooklyn Heights,9:00 - 20:00,1,False
+607,mkemmishgu,Indian,Cheap,Astoria,9:00 - 20:00,4,False
+608,gdovergv,Italian,Expensive,Woodside,9:00 - 20:00,5,False
+609,lbundeygw,Thai,Cheap,Grasmere,9:00 - 20:00,2,False
+610,deckartgx,Italian,Expensive,Long Island City,9:00 - 20:00,5,False
+611,mdenningtongy,Japanese,Expensive,Upper East Side,9:00 - 20:00,5,False
+612,kproschgz,Korean,Medium,Rosebank,9:00 - 20:00,1,False
+613,ktilth0,Japanese,Cheap,Morris Park,9:00 - 20:00,5,False
+614,gjuszczykh1,Indian,Medium,Tottenville,9:00 - 20:00,4,True
+615,gromainh2,Thai,Expensive,Flushing,9:00 - 20:00,4,True
+616,rwoolfendenh3,Thai,Expensive,Chelsea,9:00 - 20:00,2,True
+617,mwooffh4,Mexican,Cheap,Grasmere,9:00 - 20:00,2,False
+618,elathyh5,Burger,Expensive,Upper East Side,9:00 - 20:00,5,False
+619,tbowneh6,Italian,Medium,Throgs Neck,9:00 - 20:00,4,False
+620,wdymondh7,Italian,Medium,Hunts Point,9:00 - 20:00,2,False
+621,htrimmeh8,Japanese,Cheap,Grasmere,9:00 - 20:00,3,True
+622,amoncrieffeh9,Burger,Cheap,DUMBO,9:00 - 20:00,5,True
+623,screwha,Pizza,Expensive,Prospect Heights,9:00 - 20:00,2,False
+624,kcakehb,Japanese,Medium,Mott Haven,9:00 - 20:00,2,False
+625,mpyotthc,Pizza,Expensive,Jamaica,9:00 - 20:00,2,False
+626,lfirbankshd,Fast Food,Expensive,Chelsea,9:00 - 20:00,4,True
+627,bstaffordhe,Mexican,Cheap,Belmont,9:00 - 20:00,5,False
+628,sbartshf,Fast Food,Cheap,Bushwick,9:00 - 20:00,3,False
+629,emongainhg,Mexican,Cheap,Prospect Heights,9:00 - 20:00,4,False
+630,rizakovitzhh,Italian,Medium,Bedford-Stuyvesant,9:00 - 20:00,5,True
+631,raddionisiohi,Italian,Cheap,Harlem,9:00 - 20:00,4,True
+632,wvannozziihj,Mexican,Cheap,SoHo,9:00 - 20:00,3,True
+633,vsteansonhk,Italian,Medium,Westerleigh,9:00 - 20:00,2,True
+634,jsautterhl,Chinese,Cheap,DUMBO,9:00 - 20:00,1,True
+635,klettingtonhm,Chinese,Expensive,Fordham,9:00 - 20:00,2,True
+636,llenhamhn,Chinese,Cheap,Great Kills,9:00 - 20:00,2,True
+637,uchildesho,Italian,Medium,Soundview,9:00 - 20:00,3,False
+638,gkeywoodhp,Fast Food,Medium,Rego Park,9:00 - 20:00,5,False
+639,gmacnellyhq,Italian,Medium,Belmont,9:00 - 20:00,5,False
+640,lgosslinghr,Fast Food,Expensive,Greenpoint,9:00 - 20:00,3,False
+641,mthornshs,Thai,Cheap,Tottenville,9:00 - 20:00,4,True
+642,vschwartzht,American,Cheap,Soundview,9:00 - 20:00,2,True
+643,tlangtryhu,Italian,Medium,Hunts Point,9:00 - 20:00,3,False
+644,wlafontainehv,Italian,Cheap,Sunnyside,9:00 - 20:00,2,False
+645,bgullamhw,Burger,Expensive,SoHo,9:00 - 20:00,1,True
+646,dinfantinohx,Korean,Cheap,Long Island City,9:00 - 20:00,5,True
+647,svannhy,Korean,Expensive,Flushing,9:00 - 20:00,3,True
+648,elesaunierhz,Pizza,Expensive,Pelham Bay,9:00 - 20:00,2,False
+649,kbouldstridgei0,Japanese,Expensive,Tribeca,9:00 - 20:00,2,False
+650,wdinsalei1,Pizza,Medium,Brooklyn Heights,9:00 - 20:00,3,True
+651,mpeppardi2,Thai,Medium,Bushwick,9:00 - 20:00,1,True
+652,jschermicki3,French,Expensive,Washington Heights,9:00 - 20:00,4,False
+653,sprenei4,American,Cheap,Flushing,9:00 - 20:00,3,False
+654,ewickmani5,Burger,Cheap,Fordham,9:00 - 20:00,2,False
+655,clabbeyi6,American,Medium,Bayside,9:00 - 20:00,3,False
+656,kransomi7,American,Medium,Rosebank,9:00 - 20:00,5,False
+657,tshephardi8,Pizza,Expensive,Long Island City,9:00 - 20:00,4,True
+658,amaffii9,Japanese,Cheap,Crown Heights,9:00 - 20:00,5,True
+659,sumneyia,Mexican,Medium,DUMBO,9:00 - 20:00,4,False
+660,adulantyib,Pizza,Medium,Tompkinsville,9:00 - 20:00,4,False
+661,pbissekeric,Fast Food,Medium,Harlem,9:00 - 20:00,3,True
+662,aandrioniid,Thai,Cheap,Greenpoint,9:00 - 20:00,1,True
+663,tpawelie,Thai,Cheap,Stapleton,9:00 - 20:00,5,True
+664,hlevayif,Korean,Medium,Upper West Side,9:00 - 20:00,5,False
+665,ltumultyig,Mexican,Cheap,Belmont,9:00 - 20:00,2,True
+666,fgillibrandih,Burger,Medium,Westerleigh,9:00 - 20:00,1,True
+667,cburgerii,Japanese,Cheap,Rosebank,9:00 - 20:00,3,False
+668,bpresleyij,Japanese,Medium,Hunts Point,9:00 - 20:00,2,True
+669,rsperringik,Italian,Expensive,Crown Heights,9:00 - 20:00,3,False
+670,hpiolliil,Italian,Medium,DUMBO,9:00 - 20:00,4,False
+671,sedginim,Thai,Cheap,Rego Park,9:00 - 20:00,3,True
+672,jgebbin,Japanese,Medium,Great Kills,9:00 - 20:00,3,False
+673,irantoulio,French,Cheap,Crown Heights,9:00 - 20:00,4,True
+674,llusherip,Indian,Medium,Morris Park,9:00 - 20:00,5,True
+675,eleonardeiq,French,Medium,Upper West Side,9:00 - 20:00,1,True
+676,jblackstoneir,Thai,Expensive,Rego Park,9:00 - 20:00,3,True
+677,bdegiorgiois,Japanese,Expensive,Harlem,9:00 - 20:00,2,False
+678,doniansit,Mexican,Medium,Brooklyn Heights,9:00 - 20:00,5,False
+679,tlarretiu,Thai,Cheap,Greenwich Village,9:00 - 20:00,5,False
+680,tcettelliv,French,Expensive,Fordham,9:00 - 20:00,5,False
+681,tslimmingiw,Mexican,Expensive,Annadale,9:00 - 20:00,1,True
+682,kribbensix,Italian,Medium,Grasmere,9:00 - 20:00,3,False
+683,pfloatiy,Japanese,Medium,Stapleton,9:00 - 20:00,1,False
+684,ehoofeiz,Fast Food,Expensive,Crown Heights,9:00 - 20:00,2,True
+685,cveitchj0,French,Medium,Rosebank,9:00 - 20:00,2,False
+686,ggrassickj1,American,Medium,Harlem,9:00 - 20:00,1,False
+687,mperfilij2,Burger,Expensive,Tottenville,9:00 - 20:00,4,True
+688,wgurleyj3,Mexican,Cheap,Flushing,9:00 - 20:00,1,False
+689,ddowderswellj4,Mexican,Expensive,Upper East Side,9:00 - 20:00,3,False
+690,keaddyj5,Chinese,Cheap,Grasmere,9:00 - 20:00,3,False
+691,dbussenj6,Mexican,Expensive,Hunts Point,9:00 - 20:00,4,False
+692,hwilseej7,Chinese,Expensive,Sunnyside,9:00 - 20:00,5,False
+693,eoleszczakj8,Indian,Medium,Washington Heights,9:00 - 20:00,4,False
+694,krawdallj9,Thai,Expensive,Upper West Side,9:00 - 20:00,3,False
+695,bmcdougleja,American,Expensive,Rego Park,9:00 - 20:00,5,False
+696,aflavellejb,Pizza,Medium,Riverdale,9:00 - 20:00,3,True
+697,valgorejc,Chinese,Cheap,Washington Heights,9:00 - 20:00,3,True
+698,aaxupjd,Fast Food,Medium,Rosebank,9:00 - 20:00,3,False
+699,amccowanje,Burger,Expensive,Crown Heights,9:00 - 20:00,2,True
+700,pgallandersjf,American,Cheap,Soundview,9:00 - 20:00,1,False
+701,vcameratijg,Mexican,Cheap,Lower East Side,9:00 - 20:00,5,True
+702,elinehamjh,Indian,Expensive,DUMBO,9:00 - 20:00,2,False
+703,fdenerji,French,Cheap,Rego Park,9:00 - 20:00,5,False
+704,rnailjj,Mexican,Expensive,Pelham Bay,9:00 - 20:00,4,False
+705,lschneidaujk,French,Medium,Throgs Neck,9:00 - 20:00,2,True
+706,jgoreisrjl,Indian,Expensive,SoHo,9:00 - 20:00,2,False
+707,dpetraccojm,Italian,Medium,Riverdale,9:00 - 20:00,1,False
+708,emessumjn,Japanese,Medium,Morris Park,9:00 - 20:00,3,True
+709,rdoerrlingjo,American,Expensive,Stapleton,9:00 - 20:00,3,True
+710,ctuckwoodjp,Japanese,Expensive,Bayside,9:00 - 20:00,5,False
+711,lrivelesjq,Chinese,Expensive,Brooklyn Heights,9:00 - 20:00,5,False
+712,crathbonejr,American,Cheap,Stapleton,9:00 - 20:00,4,False
+713,kpietronjs,American,Cheap,Midtown,9:00 - 20:00,3,False
+714,mtregustjt,French,Expensive,DUMBO,9:00 - 20:00,2,True
+715,apudgeju,Thai,Medium,Fordham,9:00 - 20:00,2,False
+716,mtuckleyjv,Chinese,Medium,Great Kills,9:00 - 20:00,3,False
+717,kteggartjw,American,Cheap,Greenwich Village,9:00 - 20:00,4,True
+718,cguisejx,Italian,Expensive,Harlem,9:00 - 20:00,1,False
+719,grodiejy,Pizza,Cheap,Belmont,9:00 - 20:00,3,False
+720,mstanworthjz,Korean,Cheap,Rego Park,9:00 - 20:00,3,True
+721,hrivalantk0,Korean,Expensive,Tompkinsville,9:00 - 20:00,4,False
+722,rcantosk1,Japanese,Expensive,Chelsea,9:00 - 20:00,5,False
+723,gepiletk2,Indian,Cheap,Morris Park,9:00 - 20:00,1,False
+724,amitrovick3,French,Medium,Jackson Heights,9:00 - 20:00,3,True
+725,iclearleyk4,Mexican,Medium,Soundview,9:00 - 20:00,4,False
+726,nbirkbeckk5,Chinese,Cheap,Soundview,9:00 - 20:00,2,True
+727,wcroneenk6,Italian,Expensive,Long Island City,9:00 - 20:00,1,False
+728,gpoatk7,American,Medium,Long Island City,9:00 - 20:00,5,True
+729,mvannaccik8,American,Cheap,Riverdale,9:00 - 20:00,1,True
+730,apresshaughk9,Japanese,Medium,Brooklyn Heights,9:00 - 20:00,4,True
+731,sallmarkka,Chinese,Medium,Washington Heights,9:00 - 20:00,4,False
+732,dduxburykb,Thai,Cheap,Throgs Neck,9:00 - 20:00,2,True
+733,bashbeekc,Mexican,Expensive,Soundview,9:00 - 20:00,1,True
+734,ahellierkd,Pizza,Cheap,Jamaica,9:00 - 20:00,2,True
+735,koxtarbyke,Italian,Medium,Great Kills,9:00 - 20:00,3,False
+736,bparrykf,Pizza,Expensive,Upper West Side,9:00 - 20:00,4,True
+737,coflannerykg,Burger,Medium,Jamaica,9:00 - 20:00,1,False
+738,kcumptonkh,Korean,Expensive,Forest Hills,9:00 - 20:00,1,False
+739,mdaughteryki,American,Expensive,Throgs Neck,9:00 - 20:00,3,False
+740,awyneskj,Korean,Medium,Hunts Point,9:00 - 20:00,2,False
+741,rwitherbedkk,Indian,Medium,Upper East Side,9:00 - 20:00,5,False
+742,pscotchbrookkl,American,Medium,Morris Park,9:00 - 20:00,2,True
+743,vhubblekm,Italian,Medium,Upper East Side,9:00 - 20:00,3,True
+744,fkettridgekn,Japanese,Expensive,Riverdale,9:00 - 20:00,2,False
+745,ijeayesko,Korean,Expensive,Fordham,9:00 - 20:00,4,True
+746,csimminskp,Fast Food,Expensive,Throgs Neck,9:00 - 20:00,5,True
+747,lcubbinikq,American,Cheap,Riverdale,9:00 - 20:00,2,False
+748,aleechmankr,Thai,Expensive,Belmont,9:00 - 20:00,3,True
+749,amiddlemistks,Italian,Expensive,Bedford-Stuyvesant,9:00 - 20:00,5,False
+750,ztiddkt,Pizza,Expensive,Crown Heights,9:00 - 20:00,1,True
+751,tzoldku,Italian,Cheap,Astoria,9:00 - 20:00,2,False
+752,cralestonkv,Pizza,Cheap,Park Slope,9:00 - 20:00,3,True
+753,fgoggankw,French,Medium,Mott Haven,9:00 - 20:00,4,False
+754,tweighkx,Burger,Medium,Soundview,9:00 - 20:00,1,False
+755,cfinlaterky,Pizza,Cheap,Hunts Point,9:00 - 20:00,1,True
+756,oboldenkz,Korean,Medium,Bushwick,9:00 - 20:00,4,True
+757,dcamierl0,Korean,Medium,Mott Haven,9:00 - 20:00,1,False
+758,jgronowel1,Fast Food,Expensive,Bedford-Stuyvesant,9:00 - 20:00,5,True
+759,scardnelll2,Mexican,Cheap,Morris Park,9:00 - 20:00,4,False
+760,gduhamell3,French,Medium,Hunts Point,9:00 - 20:00,2,False
+761,msowoodl4,Korean,Cheap,Tottenville,9:00 - 20:00,1,False
+762,hmandrel5,Pizza,Medium,Red Hook,9:00 - 20:00,2,True
+763,nexalll6,Mexican,Expensive,Tompkinsville,9:00 - 20:00,5,True
+764,alovel7,American,Medium,Brooklyn Heights,9:00 - 20:00,3,True
+765,chardmanl8,Chinese,Medium,Kingsbridge,9:00 - 20:00,1,True
+766,fpotteridgel9,Korean,Cheap,Crown Heights,9:00 - 20:00,1,True
+767,smaccardlela,French,Expensive,Forest Hills,9:00 - 20:00,4,True
+768,eiansonlb,American,Expensive,SoHo,9:00 - 20:00,2,False
+769,lhumbeylc,Indian,Expensive,Forest Hills,9:00 - 20:00,4,False
+770,bgresld,Fast Food,Cheap,Astoria,9:00 - 20:00,3,False
+771,rritchiele,American,Expensive,Great Kills,9:00 - 20:00,3,False
+772,kdolanlf,Indian,Medium,Bedford-Stuyvesant,9:00 - 20:00,5,True
+773,djakubowskylg,Mexican,Cheap,Mott Haven,9:00 - 20:00,3,True
+774,hgleadhelllh,Fast Food,Medium,Chelsea,9:00 - 20:00,1,True
+775,cdaudrayli,Japanese,Cheap,Astoria,9:00 - 20:00,1,False
+776,dandriulislj,Fast Food,Cheap,Stapleton,9:00 - 20:00,2,False
+777,gprivostlk,Mexican,Expensive,Tottenville,9:00 - 20:00,3,False
+778,askehensll,Chinese,Cheap,Hunts Point,9:00 - 20:00,3,False
+779,aangearlm,Chinese,Cheap,DUMBO,9:00 - 20:00,5,True
+780,jmilksopln,French,Medium,Bedford-Stuyvesant,9:00 - 20:00,1,True
+781,gnunnerleylo,Thai,Medium,SoHo,9:00 - 20:00,1,True
+782,dferrettilp,French,Cheap,Stapleton,9:00 - 20:00,3,False
+783,bbloschkelq,Korean,Medium,Washington Heights,9:00 - 20:00,2,True
+784,dwalelr,Indian,Medium,Jackson Heights,9:00 - 20:00,4,True
+785,cmurriganls,Italian,Medium,Harlem,9:00 - 20:00,4,True
+786,ebinnslt,American,Expensive,Annadale,9:00 - 20:00,1,True
+787,nsheachlu,Indian,Medium,Sunnyside,9:00 - 20:00,2,False
+788,llinebargerlv,American,Cheap,Harlem,9:00 - 20:00,4,True
+789,rguitellw,Fast Food,Medium,Annadale,9:00 - 20:00,5,False
+790,wneathwaylx,Italian,Cheap,Midtown,9:00 - 20:00,3,True
+791,gevansonly,Mexican,Expensive,Morris Park,9:00 - 20:00,4,True
+792,tbalkwilllz,Thai,Cheap,Tribeca,9:00 - 20:00,5,True
+793,skiralym0,American,Cheap,Tompkinsville,9:00 - 20:00,2,True
+794,cbodiamm1,Chinese,Medium,Park Slope,9:00 - 20:00,5,False
+795,ascarrm2,Korean,Expensive,Crown Heights,9:00 - 20:00,2,False
+796,mcromerm3,Pizza,Medium,Park Slope,9:00 - 20:00,4,False
+797,bgoodem4,Japanese,Expensive,Washington Heights,9:00 - 20:00,2,True
+798,mbuistm5,American,Medium,Woodside,9:00 - 20:00,3,True
+799,cmeenehanm6,Pizza,Cheap,Westerleigh,9:00 - 20:00,3,False
+800,cjachimakm7,Korean,Cheap,Prospect Heights,9:00 - 20:00,2,True
+801,rsargintm8,Indian,Medium,Park Slope,9:00 - 20:00,5,False
+802,efishburnm9,Korean,Medium,DUMBO,9:00 - 20:00,4,True
+803,rhowardma,Chinese,Medium,Rosebank,9:00 - 20:00,2,True
+804,gtriponymb,American,Expensive,SoHo,9:00 - 20:00,4,True
+805,jgerredmc,Pizza,Cheap,Upper West Side,9:00 - 20:00,5,False
+806,ivarnhammd,Burger,Medium,Westerleigh,9:00 - 20:00,5,False
+807,hpepime,Indian,Medium,Flushing,9:00 - 20:00,5,True
+808,blidgatemf,American,Medium,Harlem,9:00 - 20:00,1,True
+809,aspreullmg,French,Expensive,Brooklyn Heights,9:00 - 20:00,4,False
+810,jraymondmh,Japanese,Medium,Greenpoint,9:00 - 20:00,4,True
+811,ckastelmi,Korean,Cheap,Jackson Heights,9:00 - 20:00,1,False
+812,lcyseleymj,Chinese,Medium,DUMBO,9:00 - 20:00,3,False
+813,nsabatinimk,Korean,Medium,Soundview,9:00 - 20:00,5,True
+814,egoodredgeml,Burger,Expensive,Flushing,9:00 - 20:00,5,False
+815,tcessmm,Fast Food,Cheap,Woodside,9:00 - 20:00,2,True
+816,rblazicmn,Korean,Medium,Rego Park,9:00 - 20:00,5,True
+817,cgoldhillmo,Burger,Expensive,Astoria,9:00 - 20:00,2,True
+818,lbruntonmp,Korean,Medium,Rosebank,9:00 - 20:00,3,False
+819,jrosendorfmq,Indian,Cheap,Chelsea,9:00 - 20:00,3,False
+820,mramesmr,Fast Food,Cheap,Jamaica,9:00 - 20:00,5,False
+821,nhinzems,Thai,Cheap,Chelsea,9:00 - 20:00,4,True
+822,bbourgaizemt,Pizza,Cheap,SoHo,9:00 - 20:00,3,True
+823,mmckerleymu,Japanese,Cheap,Park Slope,9:00 - 20:00,1,False
+824,slangmv,Korean,Medium,Grasmere,9:00 - 20:00,4,False
+825,lgookemw,Thai,Expensive,Greenwich Village,9:00 - 20:00,4,True
+826,ddrinkelmx,Indian,Medium,Lower East Side,9:00 - 20:00,3,False
+827,sbricemy,Japanese,Medium,Sunnyside,9:00 - 20:00,3,False
+828,cdowallmz,Thai,Cheap,Harlem,9:00 - 20:00,1,True
+829,bdemitrisn0,Thai,Cheap,Midtown,9:00 - 20:00,5,True
+830,tcolebeckn1,Pizza,Expensive,Harlem,9:00 - 20:00,3,False
+831,sashwoodn2,Korean,Medium,Throgs Neck,9:00 - 20:00,3,True
+832,djorczykn3,Indian,Expensive,Belmont,9:00 - 20:00,4,False
+833,sparkenn4,Indian,Medium,Kingsbridge,9:00 - 20:00,5,False
+834,mlafrentzn5,Fast Food,Cheap,Upper West Side,9:00 - 20:00,2,False
+835,gtullettn6,Chinese,Cheap,Harlem,9:00 - 20:00,5,False
+836,mpibsworthn7,Korean,Medium,Grasmere,9:00 - 20:00,5,True
+837,charlickn8,American,Cheap,Kingsbridge,9:00 - 20:00,5,True
+838,cmeachern9,Burger,Cheap,Morris Park,9:00 - 20:00,3,False
+839,trittelmeyerna,American,Expensive,Pelham Bay,9:00 - 20:00,2,False
+840,mroulliernb,Korean,Cheap,Great Kills,9:00 - 20:00,2,False
+841,shardestync,American,Medium,Midtown,9:00 - 20:00,2,False
+842,cbernardynd,Indian,Expensive,Pelham Bay,9:00 - 20:00,3,True
+843,lmossmanne,Indian,Medium,Midtown,9:00 - 20:00,3,False
+844,afouxnf,Japanese,Medium,Lower East Side,9:00 - 20:00,4,False
+845,lmonelling,Chinese,Cheap,Bayside,9:00 - 20:00,3,False
+846,mtolomellinh,Pizza,Medium,Harlem,9:00 - 20:00,1,False
+847,rjosiahni,Korean,Cheap,Red Hook,9:00 - 20:00,2,False
+848,jjarmynnj,Burger,Medium,Kingsbridge,9:00 - 20:00,5,False
+849,hlowthiannk,Korean,Cheap,Greenpoint,9:00 - 20:00,4,True
+850,mgingoldnl,Chinese,Expensive,Throgs Neck,9:00 - 20:00,5,True
+851,ichallinornm,American,Cheap,Bedford-Stuyvesant,9:00 - 20:00,3,False
+852,krowneynn,Pizza,Medium,Pelham Bay,9:00 - 20:00,1,False
+853,gbesterno,Indian,Cheap,Midtown,9:00 - 20:00,4,True
+854,vcrispinnp,Pizza,Expensive,Hunts Point,9:00 - 20:00,2,False
+855,ctythacottnq,American,Medium,New Brighton,9:00 - 20:00,3,False
+856,tvantnr,Indian,Medium,Rego Park,9:00 - 20:00,5,True
+857,icallowayns,Chinese,Cheap,Kingsbridge,9:00 - 20:00,5,False
+858,jlamblotnt,Fast Food,Cheap,Park Slope,9:00 - 20:00,5,True
+859,ocattellionnu,Burger,Expensive,Soundview,9:00 - 20:00,2,False
+860,kmcelorynv,Burger,Cheap,DUMBO,9:00 - 20:00,5,True
+861,daleksichnw,Chinese,Expensive,Rosebank,9:00 - 20:00,3,True
+862,hmccarlienx,Thai,Cheap,Stapleton,9:00 - 20:00,4,False
+863,mwillsny,Fast Food,Expensive,Brooklyn Heights,9:00 - 20:00,5,False
+864,sgrishukovnz,Indian,Expensive,Stapleton,9:00 - 20:00,4,True
+865,ariedigero0,Italian,Cheap,Forest Hills,9:00 - 20:00,4,True
+866,dcodlino1,Italian,Expensive,Jamaica,9:00 - 20:00,2,False
+867,rlarmetto2,Burger,Medium,Morris Park,9:00 - 20:00,5,True
+868,lglasheeno3,Italian,Expensive,Brooklyn Heights,9:00 - 20:00,3,True
+869,nwindrumo4,Fast Food,Medium,Hunts Point,9:00 - 20:00,1,True
+870,arossero5,Korean,Expensive,Flushing,9:00 - 20:00,1,True
+871,champtono6,Italian,Expensive,Stapleton,9:00 - 20:00,4,True
+872,opidgeno7,Thai,Cheap,Greenwich Village,9:00 - 20:00,4,True
+873,idorricotto8,Chinese,Cheap,Astoria,9:00 - 20:00,5,True
+874,lcystero9,Japanese,Cheap,Forest Hills,9:00 - 20:00,4,True
+875,bgrigoronioa,Japanese,Medium,Throgs Neck,9:00 - 20:00,3,True
+876,nbessellob,Fast Food,Expensive,SoHo,9:00 - 20:00,3,True
+877,cbassiloc,Burger,Cheap,Riverdale,9:00 - 20:00,3,False
+878,acowinod,Chinese,Medium,Kingsbridge,9:00 - 20:00,4,False
+879,gdinwoodieoe,Fast Food,Medium,Bayside,9:00 - 20:00,1,False
+880,mgillumof,Pizza,Medium,Lower East Side,9:00 - 20:00,5,True
+881,tshieldsog,Japanese,Cheap,Riverdale,9:00 - 20:00,4,False
+882,rleamanoh,Chinese,Expensive,Stapleton,9:00 - 20:00,3,True
+883,vchitteroi,French,Medium,Tottenville,9:00 - 20:00,5,True
+884,amacneilloj,Mexican,Cheap,Westerleigh,9:00 - 20:00,3,False
+885,ldodsleyok,Thai,Medium,Washington Heights,9:00 - 20:00,5,False
+886,kfeaverol,Thai,Expensive,Hunts Point,9:00 - 20:00,2,False
+887,djosowitzom,French,Cheap,Grasmere,9:00 - 20:00,3,False
+888,ldodgeon,French,Cheap,Washington Heights,9:00 - 20:00,4,True
+889,svineoo,Mexican,Cheap,Greenpoint,9:00 - 20:00,5,False
+890,fsestonop,French,Medium,Throgs Neck,9:00 - 20:00,1,True
+891,arogerotoq,Thai,Medium,Forest Hills,9:00 - 20:00,3,True
+892,rfritcheor,Mexican,Expensive,Tottenville,9:00 - 20:00,1,False
+893,ayakoboviczos,Pizza,Cheap,Upper East Side,9:00 - 20:00,4,True
+894,hpefferot,Chinese,Cheap,Throgs Neck,9:00 - 20:00,2,False
+895,ealeshkovou,Japanese,Expensive,Annadale,9:00 - 20:00,4,True
+896,jwalkeyov,Indian,Expensive,Woodside,9:00 - 20:00,1,False
+897,dskullow,Thai,Cheap,Prospect Heights,9:00 - 20:00,1,True
+898,bjacqueminetox,Italian,Expensive,Throgs Neck,9:00 - 20:00,5,True
+899,ggovenlockoy,Burger,Medium,Rosebank,9:00 - 20:00,4,True
+900,lwittkeoz,American,Medium,Grasmere,9:00 - 20:00,1,False
+901,gmoggiep0,Indian,Cheap,Jackson Heights,9:00 - 20:00,3,True
+902,dsteggalsp1,Chinese,Cheap,Pelham Bay,9:00 - 20:00,2,False
+903,tgrieswoodp2,Italian,Medium,DUMBO,9:00 - 20:00,5,False
+904,tchyuertonp3,American,Expensive,Rego Park,9:00 - 20:00,5,False
+905,ghiskeyp4,Indian,Expensive,Pelham Bay,9:00 - 20:00,2,True
+906,rminghip5,French,Cheap,Hunts Point,9:00 - 20:00,2,True
+907,sogilbyp6,Mexican,Expensive,Brooklyn Heights,9:00 - 20:00,2,False
+908,kjollyep7,Indian,Medium,Westerleigh,9:00 - 20:00,3,True
+909,rgriegerp8,French,Cheap,Greenwich Village,9:00 - 20:00,2,False
+910,bbohjep9,Mexican,Expensive,Woodside,9:00 - 20:00,3,True
+911,ecolleerpa,Indian,Expensive,Bedford-Stuyvesant,9:00 - 20:00,5,True
+912,qedgeonpb,Japanese,Expensive,Chelsea,9:00 - 20:00,4,False
+913,erakestrawpc,Indian,Medium,Throgs Neck,9:00 - 20:00,4,False
+914,bbarenskypd,Mexican,Expensive,Mott Haven,9:00 - 20:00,1,True
+915,rcrowleype,Indian,Cheap,Westerleigh,9:00 - 20:00,2,False
+916,shexhampf,Italian,Cheap,Rego Park,9:00 - 20:00,2,False
+917,rmosspg,Fast Food,Expensive,Stapleton,9:00 - 20:00,3,False
+918,lklimochkinph,French,Cheap,Woodside,9:00 - 20:00,4,True
+919,hrisbridgerpi,Chinese,Expensive,Morris Park,9:00 - 20:00,2,True
+920,lmatushevichpj,Italian,Expensive,Mott Haven,9:00 - 20:00,3,False
+921,bbrockmanpk,Chinese,Expensive,DUMBO,9:00 - 20:00,2,False
+922,ccanbypl,Burger,Expensive,Greenpoint,9:00 - 20:00,1,False
+923,sglowachpm,Italian,Cheap,Mott Haven,9:00 - 20:00,1,False
+924,kleppingwellpn,Thai,Cheap,Long Island City,9:00 - 20:00,2,False
+925,nkorbapo,Pizza,Cheap,Bedford-Stuyvesant,9:00 - 20:00,3,False
+926,cmuntpp,Pizza,Cheap,Upper West Side,9:00 - 20:00,2,True
+927,jslottpq,Pizza,Expensive,Tompkinsville,9:00 - 20:00,1,True
+928,gdruganpr,Chinese,Cheap,Kingsbridge,9:00 - 20:00,2,True
+929,rspekeps,Mexican,Expensive,Flushing,9:00 - 20:00,5,True
+930,lkemblept,Italian,Cheap,DUMBO,9:00 - 20:00,5,False
+931,pholbarrowpu,Chinese,Cheap,Tottenville,9:00 - 20:00,4,True
+932,lscuttspv,Mexican,Expensive,Woodside,9:00 - 20:00,1,True
+933,rperkinsonpw,Indian,Expensive,Rego Park,9:00 - 20:00,4,False
+934,nredshawpx,Indian,Medium,Upper East Side,9:00 - 20:00,4,True
+935,mwestleypy,Japanese,Medium,Midtown,9:00 - 20:00,3,True
+936,blantaffpz,American,Expensive,Mott Haven,9:00 - 20:00,2,True
+937,sswadlenq0,Korean,Expensive,DUMBO,9:00 - 20:00,2,False
+938,eburgesq1,Pizza,Expensive,Flushing,9:00 - 20:00,2,True
+939,dbraidfordq2,French,Expensive,Bushwick,9:00 - 20:00,2,False
+940,ayoselevitchq3,French,Expensive,Greenwich Village,9:00 - 20:00,1,False
+941,aphizackerlyq4,French,Cheap,Bedford-Stuyvesant,9:00 - 20:00,2,True
+942,lcurnuckeq5,American,Medium,Prospect Heights,9:00 - 20:00,5,True
+943,wparadisq6,Korean,Medium,Kingsbridge,9:00 - 20:00,1,True
+944,rmccroryq7,Korean,Medium,Flushing,9:00 - 20:00,4,True
+945,cjakubskiq8,Thai,Expensive,New Brighton,9:00 - 20:00,2,False
+946,gcranfieldq9,Thai,Cheap,Annadale,9:00 - 20:00,5,True
+947,mwiddicombeqa,Fast Food,Expensive,Prospect Heights,9:00 - 20:00,3,True
+948,rschubuserqb,Burger,Cheap,Mott Haven,9:00 - 20:00,2,False
+949,aderlqc,Indian,Expensive,Soundview,9:00 - 20:00,5,False
+950,balyokhinqd,Burger,Expensive,Jackson Heights,9:00 - 20:00,3,False
+951,bscallonqe,Indian,Cheap,Bushwick,9:00 - 20:00,5,True
+952,bkunaqf,Italian,Expensive,Grasmere,9:00 - 20:00,5,True
+953,afeareyqg,Chinese,Expensive,Park Slope,9:00 - 20:00,2,False
+954,cblazebyqh,Chinese,Cheap,SoHo,9:00 - 20:00,5,True
+955,kchalkeqi,Korean,Medium,Belmont,9:00 - 20:00,3,False
+956,acobbledqj,Thai,Cheap,Bedford-Stuyvesant,9:00 - 20:00,1,False
+957,whutableqk,Burger,Cheap,Midtown,9:00 - 20:00,3,False
+958,mmarcumql,Thai,Medium,Morris Park,9:00 - 20:00,2,False
+959,rjankiewiczqm,Korean,Cheap,Park Slope,9:00 - 20:00,4,False
+960,ydevennieqn,Chinese,Medium,Harlem,9:00 - 20:00,5,True
+961,pcicchinelliqo,Pizza,Cheap,Morris Park,9:00 - 20:00,1,True
+962,elawfordqp,Fast Food,Medium,Westerleigh,9:00 - 20:00,1,False
+963,kwatlingqq,Indian,Cheap,Rosebank,9:00 - 20:00,1,True
+964,hcromlyqr,Thai,Medium,Midtown,9:00 - 20:00,4,True
+965,efrankemaqs,Korean,Expensive,Upper West Side,9:00 - 20:00,2,False
+966,nmacnellyqt,American,Cheap,New Brighton,9:00 - 20:00,5,True
+967,mlongfutqu,Burger,Medium,Mott Haven,9:00 - 20:00,3,True
+968,aalpsqv,Fast Food,Cheap,Bedford-Stuyvesant,9:00 - 20:00,2,False
+969,kstawellqw,American,Expensive,Tompkinsville,9:00 - 20:00,5,True
+970,vzanicchelliqx,Korean,Expensive,Bayside,9:00 - 20:00,3,True
+971,byakovlqy,Chinese,Expensive,Crown Heights,9:00 - 20:00,5,True
+972,ggayforthqz,Italian,Expensive,Park Slope,9:00 - 20:00,4,False
+973,ksebrightr0,American,Cheap,Astoria,9:00 - 20:00,5,False
+974,itunneyr1,Chinese,Medium,Greenpoint,9:00 - 20:00,2,True
+975,zdunphyr2,Thai,Expensive,Soundview,9:00 - 20:00,1,False
+976,aosemanr3,Mexican,Cheap,Greenpoint,9:00 - 20:00,1,True
+977,irubbertr4,Indian,Expensive,Crown Heights,9:00 - 20:00,2,True
+978,clazarer5,American,Cheap,Morris Park,9:00 - 20:00,4,False
+979,bargontr6,Burger,Cheap,Tottenville,9:00 - 20:00,3,True
+980,adiggr7,Fast Food,Expensive,Westerleigh,9:00 - 20:00,1,False
+981,fmatonr8,Japanese,Medium,Midtown,9:00 - 20:00,4,False
+982,nwildborer9,Pizza,Cheap,Park Slope,9:00 - 20:00,3,True
+983,ldrabblera,American,Cheap,Bushwick,9:00 - 20:00,3,True
+984,jhartillrb,Thai,Medium,Harlem,9:00 - 20:00,3,False
+985,ppegrumrc,Pizza,Medium,Bayside,9:00 - 20:00,2,True
+986,cransomerd,French,Expensive,Jackson Heights,9:00 - 20:00,5,True
+987,mrunnallsre,American,Expensive,Riverdale,9:00 - 20:00,1,True
+988,echristallrf,Thai,Cheap,Forest Hills,9:00 - 20:00,4,False
+989,rciciurarg,French,Medium,Grasmere,9:00 - 20:00,5,False
+990,lgaineofenglandrh,American,Expensive,Upper West Side,9:00 - 20:00,4,False
+991,lnailri,Thai,Expensive,Park Slope,9:00 - 20:00,5,True
+992,dkinnarrj,American,Expensive,Tompkinsville,9:00 - 20:00,2,True
+993,mkrolrk,Chinese,Expensive,Crown Heights,9:00 - 20:00,2,True
+994,aargonttrl,French,Cheap,Westerleigh,9:00 - 20:00,4,True
+995,tgibardrm,Korean,Medium,Rosebank,9:00 - 20:00,5,False
+996,mdavyrn,Thai,Expensive,Jamaica,9:00 - 20:00,1,True
+997,hjaumero,Thai,Medium,Upper West Side,9:00 - 20:00,1,False
+998,tpretorrp,American,Expensive,SoHo,9:00 - 20:00,3,True
+999,prhodusrq,Indian,Medium,Hunts Point,9:00 - 20:00,2,False
+1000,yhagwoodrr,Italian,Expensive,Tompkinsville,9:00 - 20:00,2,True
